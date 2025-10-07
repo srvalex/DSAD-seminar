@@ -1,2 +1,2 @@
 # DSAD-seminar
-Semiar dsad
+Voi adauga aici toate cerintele care apar de-a lungul semestrului
